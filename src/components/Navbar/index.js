@@ -47,11 +47,11 @@ const Navbar = ({ toggle, onHover }) => {
                             </NavItem>
 
                             <NavItem>
-                                <NavLinks to="discover" smooth={true}
+                                <NavLinks to="result" smooth={true}
                                     duration={500}
                                     spy={true}
                                     exact="true"
-                                    offset={-40}>Discover
+                                    offset={-40}>Result
                                 </NavLinks>
                             </NavItem>
 

@@ -5,7 +5,7 @@ export const homeObjOne = {
     lightTextDesc: true,
     topLine: 'Premium Bank',
     headLine: 'Online lessons',
-    description: 'Get access to online lessons with me and become better at math.',
+    description: 'Get access to online lessons with me and become better at math. Many people turn to online learning for its flexibility. Learning virtually from anywhere allows you to pursue coursework without having to commute to a physical campus.',
     buttonLabel: 'Get started',
     imgStart: false,
     img: require('../../images/svg-1.svg'),
@@ -16,7 +16,7 @@ export const homeObjOne = {
 }
 
 export const homeObjTwo = {
-    id: 'discover',
+    id: 'result',
     lightBg: true,
     lightText: false,
     lightTextDesc: false,
