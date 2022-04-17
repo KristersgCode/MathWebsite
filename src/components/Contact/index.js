@@ -14,7 +14,7 @@ const Contact = () => {
                             <FormInput type="email" required />
                             <FormLabel htmlFor='for'>Password</FormLabel>
                             <FormInput type="password" required />
-                            <FormButton type='submit' onClick={alert("Hello World!")}>Continue</FormButton>
+                            <FormButton type='submit' onClick={() => alert('This form is only for visual purpose')}>Continue</FormButton>
                            
                         </Form>
                     </FormContent>

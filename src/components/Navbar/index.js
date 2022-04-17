@@ -42,7 +42,7 @@ const Navbar = ({ toggle, onHover }) => {
                                     duration={500}
                                     spy={true}
                                     exact="true"
-                                    offset={-80}>About
+                                    offset={-40}>About
                                 </NavLinks>
                             </NavItem>
 
@@ -51,7 +51,7 @@ const Navbar = ({ toggle, onHover }) => {
                                     duration={500}
                                     spy={true}
                                     exact="true"
-                                    offset={-80}>Discover
+                                    offset={-40}>Discover
                                 </NavLinks>
                             </NavItem>
 
@@ -60,7 +60,7 @@ const Navbar = ({ toggle, onHover }) => {
                                     duration={500}
                                     spy={true}
                                     exact="true"
-                                    offset={-80}>Services
+                                    offset={-40}>Services
                                 </NavLinks>
                             </NavItem>
 
@@ -69,7 +69,7 @@ const Navbar = ({ toggle, onHover }) => {
                                     duration={500}
                                     spy={true}
                                     exact="true"
-                                    offset={-80}>Contact me
+                                    offset={40}>Contact me
                                 </NavLinks>
                             </NavItem>
                         </NavMenu>

@@ -9,7 +9,7 @@ export const homeObjOne = {
     buttonLabel: 'Get started',
     imgStart: false,
     img: require('../../images/svg-1.svg'),
-    alt: 'Car',
+    alt: 'online',
     dark: true,
     primary: true,
     darkText: false
@@ -26,25 +26,9 @@ export const homeObjTwo = {
     buttonLabel: 'Learn More',
     imgStart: true,
     img: require('../../images/svg-1.1.svg'),
-    alt: 'Piggybank',
+    alt: 'Grades',
     dark: false,
     primary: false,
     darkText: true
 }
 
-export const homeObjThree = {
-    id: 'contact',
-    lightBg: true,
-    lightText: false,
-    lightTextDesc: false,
-    topLine: 'Premium Bank',
-    headLine: 'Unlimited transaction with zero fees',
-    description: 'Get access to out exsclusiev app tht allows ou to send unlimited transactions without getting charged any fees.',
-    buttonLabel: 'Start Now',
-    imgStart: false,
-    img: require('../../images/svg-3.svg'),
-    alt: 'Paper',
-    dark: false,
-    primary: false,
-    darkText: true
-}

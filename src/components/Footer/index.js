@@ -51,8 +51,8 @@ const Footer = () => {
                 </FooterLinksContainer>
                 <SocialMedia>
                     <SocialMediaWrap>
-                        <SocialLogo to='/' onClick={toggleHome}>
-                            Go back to top
+                        <SocialLogo  to='/' onClick={toggleHome}><span
+                        style={{ color: '#FF6366' }}>Go back to top </span>
                         </SocialLogo>
                         <WebstiteRights>MathTeacher © {new Date().getFullYear()}All rights reserved.</WebstiteRights>
                         <SocialIcons>
