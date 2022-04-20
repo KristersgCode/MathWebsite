@@ -9,11 +9,10 @@ export const InfoSection = ({ lightBg, id, imgStart, lightText, headLine, darkTe
                 <InfoWrapper>
                     <InfoRow imgStart={imgStart}>
                         <Column1>
+                        
                             <TextWrapper>
-                            
                                 <Heading lightText={lightText}>{headLine}</Heading>
-                                <Subtitle darkText={darkText}>{description}</Subtitle>
-                               
+                                <Subtitle darkText={darkText}>{description}</Subtitle>                        
                             </TextWrapper>
                         </Column1>
                         <Column2>
