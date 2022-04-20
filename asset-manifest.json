@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MathWebsite/static/css/main.705d6f82.chunk.css",
+    "main.js": "/MathWebsite/static/js/main.ce474d2d.chunk.js",
+    "main.js.map": "/MathWebsite/static/js/main.ce474d2d.chunk.js.map",
+    "runtime~main.js": "/MathWebsite/static/js/runtime~main.5b89a431.js",
+    "runtime~main.js.map": "/MathWebsite/static/js/runtime~main.5b89a431.js.map",
+    "static/js/2.56e07b40.chunk.js": "/MathWebsite/static/js/2.56e07b40.chunk.js",
+    "static/js/2.56e07b40.chunk.js.map": "/MathWebsite/static/js/2.56e07b40.chunk.js.map",
+    "static/js/3.6f35523b.chunk.js": "/MathWebsite/static/js/3.6f35523b.chunk.js",
+    "static/js/3.6f35523b.chunk.js.map": "/MathWebsite/static/js/3.6f35523b.chunk.js.map",
+    "index.html": "/MathWebsite/index.html",
+    "precache-manifest.d418d10b4b94e9a1a089e9717606ee35.js": "/MathWebsite/precache-manifest.d418d10b4b94e9a1a089e9717606ee35.js",
+    "service-worker.js": "/MathWebsite/service-worker.js",
+    "static/css/main.705d6f82.chunk.css.map": "/MathWebsite/static/css/main.705d6f82.chunk.css.map",
+    "static/media/svg-1.1.svg": "/MathWebsite/static/media/svg-1.1.d5d99716.svg",
+    "static/media/svg-1.svg": "/MathWebsite/static/media/svg-1.61e17969.svg",
+    "static/media/svg-3.svg": "/MathWebsite/static/media/svg-3.0404e535.svg",
+    "static/media/svg-4.svg": "/MathWebsite/static/media/svg-4.eccde3e7.svg",
+    "static/media/video2.mp4": "/MathWebsite/static/media/video2.5ef91800.mp4"
+  }
+}
