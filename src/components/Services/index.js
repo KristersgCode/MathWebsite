@@ -13,7 +13,6 @@ const Services = () => {
                 <ServicesCard>
                     <ServicesIcon src={Icon1} />
                     <ServicesH2>Individual online lessons</ServicesH2>
-                    
                     <ServicesP>In this modern age i provide online lessons</ServicesP>
                 </ServicesCard>
 
