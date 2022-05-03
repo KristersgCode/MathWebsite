@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { FaBars } from "react-icons/fa"
-import { Nav, NavbarContainer, NavLogo, MobileIcon, NavMenu, NavItem, NavLinks, NavBtn, NavBtnLink } from "./NavBarElements"
+import { Nav, NavbarContainer, NavLogo, MobileIcon, NavMenu, NavItem, NavLinks} from "./NavBarElements"
 import { IconContext } from 'react-icons/lib';
 import { animateScroll as scroll } from 'react-scroll';
 
@@ -37,6 +37,15 @@ const Navbar = ({ toggle, onHover }) => {
                             <FaBars />
                         </MobileIcon>
                         <NavMenu>
+                        <NavItem>
+                                <NavLinks to="home" smooth={true}
+                                    duration={500}
+                                    spy={true}
+                                    exact="true"
+                                    offset={-40}>Home
+                                </NavLinks>
+                            </NavItem>
+
                             <NavItem>
                                 <NavLinks to="about" smooth={true}
                                     duration={500}
