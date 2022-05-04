@@ -2,7 +2,7 @@ import React from 'react';
 import { InfoContainer, InfoWrapper, InfoRow, Column1, Column2, TextWrapper, Heading, Subtitle, Img, ImgWrap, } from './InfoElements';
 
 
-export const InfoSection = ({ lightBg, id, imgStart, lightText, headLine, darkText, description, buttonLabel, img, alt, primary, dark, dark2, }) => {
+export const InfoSection = ({ lightBg, id, imgStart, lightText, headLine, darkText, description, buttonLabel, img, alt}) => {
     return (
         <>
             <InfoContainer lightBg={lightBg} id={id}>
